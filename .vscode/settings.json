@@ -1,0 +1,11 @@
+{
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [
+        "clang-diagnostic-error"
+    ],
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "vector": "cpp"
+    }
+}
